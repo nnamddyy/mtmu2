@@ -44,4 +44,25 @@ Login to www.github.com with your details
 ##
 Click Create a new and empty repository and fill in alc-practice in box after /
 ##
-uncheck every option and click continue
+Choose public and uncheck every option and click create repository
+
+(Task 4)
+
+Launch cmd
+##
+Type cd alc-practice
+##
+Type git remote add origin https://github.com/(yourusername)/alc-practice.git
+##
+Type git push - u origin master
+##
+A message will display asking for your name as registered on github
+## 
+Type in password
+##
+If successful, there will be a notification for number of files transfer to the empty repository created in task 3.
+##
+Head to github and check the repository to confirm transfer.
+
+Congratulations!
+
