@@ -1,3 +1,5 @@
+Sign up for or retrieve login details on www.github.comcom
+##
 Install git https://git-scm.com/download/win
 ##
 Create a directory/folder that where your project with be kept by following these steps
