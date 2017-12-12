@@ -27,3 +27,21 @@ Locate the index html file and change the anchor texts such as drinks, etc to yo
 View the result on your browser 
 ##
 Rename the cloned 'mtmu2' to alc-practice
+
+(Task 3)
+
+Launch your cmd
+##
+Type cd Documents
+##
+Type cd alc-practice
+##
+Type git init
+##
+Type git status
+##
+Login to www.github.com with your details
+##
+Click Create a new and empty repository and fill in alc-practice in box after /
+##
+uncheck every option and click continue
